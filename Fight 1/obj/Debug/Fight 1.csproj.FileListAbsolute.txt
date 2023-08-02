@@ -1,0 +1,7 @@
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\bin\Debug\Fight 1.exe.config
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\bin\Debug\Fight 1.exe
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\bin\Debug\Fight 1.pdb
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\obj\Debug\Fight 1.csproj.AssemblyReference.cache
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\obj\Debug\Fight 1.csproj.CoreCompileInputs.cache
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\obj\Debug\Fight 1.exe
+D:\D\Opera Load\Сакутин Летний Лагерь\ConsoleSystem\Fight 1\obj\Debug\Fight 1.pdb
